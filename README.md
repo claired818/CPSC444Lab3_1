@@ -5,3 +5,5 @@
 4.a: Making the height of the canvas smaller, shrinks the y-axis, making the grid appear squished.
 
 4.b: Making the width of the canvas smaller, shrinks the x-axis, making the grid appear skinnier.
+
+10: To still see the tops of the cubes while leaving the axes the same in perspective mode you would move the cubes lower on the y-axis. To still see the tops of the cubes while leaving the axes the same in orthogonal mode you would rotate the cubes 90 degrees along the x-axis.
