@@ -1,3 +1,5 @@
+Claire Davis
+
 1: There is no change in the display because lookAt sets the camera at 0, 0, -10 and translate puts the viewing matrix at 0, 0, -10.
 
 2: The grid disappears because the lines that make up the grid are drawn on z = 0. Without either function the viewing matrix also ends up on z = 0, so nothing shows up.
